@@ -44,7 +44,7 @@ En resumen, Community es la opción sencilla y sin coste, y Enterprise es la opc
 # Fichas técnicas
 ## ERP libre
 
-**ERP libre: Odoo Community**
+## ERP libre: Odoo Community
 
 **Licencia:** Odoo Community utiliza la licencia **GNU LGPLv3**. Enlace: https://www.odoo.com/documentation/20.0/legal/licenses.html
 
@@ -63,7 +63,7 @@ En resumen, Community es la opción sencilla y sin coste, y Enterprise es la opc
 **Fecha de consulta:** 25/09/2026.
 
 
-**ERP propietario: Microsoft Dynamics 365 Finance**
+## ERP propietario: Microsoft Dynamics 365 Finance
 
 **Licencia:** Microsoft Dynamics 365 Finance utiliza un modelo de licencia comercial por suscripción. Ellos indican que las aplicaciones de Finance and Operations se licencian mediante suscripciones y se comercializan mediante Microsoft Volume Licensing y el programa CSP. Enlace: https://www.microsoft.com/licensing/terms/productoffering/MicrosoftDynamics365
 
@@ -82,7 +82,7 @@ En resumen, Community es la opción sencilla y sin coste, y Enterprise es la opc
 **Fecha de consulta:** 25/09/2026.
 
 
-**CRM libre: SuiteCRM**
+## CRM libre: SuiteCRM
 
 **Licencia:** SuiteCRM es un CRM de código abierto. Su código está disponible bajo una licencia de software libre, permitiendo utilizar y modificar el sistema. Enlace: https://docs.suitecrm.com/8.x/admin/licensing/
 
@@ -101,7 +101,7 @@ En resumen, Community es la opción sencilla y sin coste, y Enterprise es la opc
 **Fecha de consulta:** 25/09/2026.
 
 
-**CRM propietario: Salesforce**
+## CRM propietario: Salesforce
 
 **Licencia:** Salesforce es un software propietario comercial basado en suscripción. No se distribuye como software libre para instalar y modificar libremente. Enlace: https://www.salesforce.com/es/pricing/
 
