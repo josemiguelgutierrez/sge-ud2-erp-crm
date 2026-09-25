@@ -45,13 +45,13 @@ En resumen, Community es la opción sencilla y sin coste, y Enterprise es la opc
 
 ## ERP libre: Odoo Community
 
-**Licencia:** Odoo Community utiliza la licencia **GNU LGPLv3**. Enlace: https://www.odoo.com/documentation/20.0/legal/licenses.html
+**Licencia:** Odoo Community utiliza la licencia GNU LGPLv3. Enlace: https://www.odoo.com/documentation/20.0/legal/licenses.html
 
-**Versión vigente:** La versión vigente es **Odoo 20.0**. Enlace: https://www.odoo.com/documentation/20.0/administration/on_premise/source.html
+**Versión vigente:** La versión vigente es Odoo 20.0. Enlace: https://www.odoo.com/documentation/20.0/administration/on_premise/source.html
 
-**Lenguaje delservidor:** El servidor está desarrollado principalmente en **Python**. Para Odoo 20 se requiere **Python 3.12** o posterior. Enlace: https://www.odoo.com/documentation/20.0/administration/on_premise/source.html
+**Lenguaje delservidor:** El servidor está desarrollado principalmente en Python. Para Odoo 20 se requiere Python 3.12 o posterior. Enlace: https://www.odoo.com/documentation/20.0/administration/on_premise/source.html
 
-**SGBD compatibles:** Odoo utiliza **PostgreSQL** como sistema gestor de bases de datos. Para la versión vigente se requiere **PostgreSQL 16** o superior. Enlace: https://www.odoo.com/documentation/20.0/administration/on_premise/source.html
+**SGBD compatibles:** Odoo utiliza PostgreSQL como sistema gestor de bases de datos. Para la versión vigente se requiere PostgreSQL 16 o superior. Enlace: https://www.odoo.com/documentation/20.0/administration/on_premise/source.html
 
 **Modalidad:** Puede utilizarse mediante instalación local/on-premise o mediante servicios en la nube de Odoo. La documentación oficial contempla tanto instalaciones on-premise como Odoo Online y Odoo.sh. Enlace: https://www.odoo.com/documentation/20.0/administration.html
 
