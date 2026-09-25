@@ -117,3 +117,23 @@ En resumen, Community es la opción sencilla y sin coste, y Enterprise es la opc
 **Requisitos principales:** Solo se necesita un navegador web compatible y conexión a Internet. Enlace: https://www.salesforce.com/es/crm/
 
 **Fecha de consulta:** 25/09/2026.
+
+
+# Fe de erratas del tema
+
+## Primer error
+
+**Que dice el PDF:** El PDF dice que Microsoft Dynamics es el más económico de los tres ERP propietarios líderes.
+
+**Correción:** Eso ya no es cierto, porque a día de hoy Microsoft Dynamics ha aumentado mucho los precios, entonces ahora mismo SAP ERP y Oracle ERP Cloud, tiene planes más baratos, así que no es el más barato y está desactualizado.
+
+**Enlace:** https://www.microsoft.com/en-us/dynamics-365/blog/no-audience/2024/04/12/new-pricing-for-microsoft-dynamics-365-effective-october-2024/
+
+
+## Segundo error
+
+**Que dice el PDF:** El PDF dice que Salesforce es solo un CRM basado en la nube.
+
+**Correción:** Ahora mismo Salesforce ya no es solo un CRM, es una plataforma integral en la nube que abarca ventas, marketing, atención al cliente, comercio electrónico, análisis de datos, inteligencia artificial y desarrollo de aplicaciones.
+
+**Enlace:** https://www.salesforce.com/es/
