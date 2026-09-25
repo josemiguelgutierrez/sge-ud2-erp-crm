@@ -42,7 +42,6 @@ Y las versiones Enterprise son de pago y están pensadas para empresas que neces
 En resumen, Community es la opción sencilla y sin coste, y Enterprise es la opción completa y profesional, pero pagando.
 
 # Fichas técnicas
-## ERP libre
 
 ## ERP libre: Odoo Community
 
