@@ -137,3 +137,12 @@ En resumen, Community es la opción sencilla y sin coste, y Enterprise es la opc
 **Correción:** Ahora mismo Salesforce ya no es solo un CRM, es una plataforma integral en la nube que abarca ventas, marketing, atención al cliente, comercio electrónico, análisis de datos, inteligencia artificial y desarrollo de aplicaciones.
 
 **Enlace:** https://www.salesforce.com/es/
+
+
+# Decisiones en la matriz
+
+Tras evaluar las tres opciones (ERPNext+SuiteCRM, Odoo Community+SuiteCRM y Dynamics+Zoho) según a lo que le puede venir mejor a mi empresa, he asignado puntuaciones del 1 al 5 y aplicado los pesos. Los totales ponderados quedan así: ERPNext+SuiteCRM obtiene 3,65, Odoo Community+SuiteCRM 4,10 y Microsoft Dynamics+Zoho 4,35.
+
+Aunque Microsoft Dynamics sea la que mejor puntúa técnicamente, al ser cara y que depende del proveedor, yo creo que no sería tan adecuado para mi empresa. Por eso ccreo que la opción de Odoo Community + SuiteCRM es la mejor opción ya que permite integrar tienda física y web, mejora el control del stock y facilita crear un portal de pedidos sin licencias de pago, además de ser más fácil de usar para los seis empleados.
+
+Aun así, lógicamente hay riesgos como que algunas funciones requieren configuración adicional, hay cierta dependencia de desarrolladores para personalizar módulos y para una futura migración a Odoo Enterprise podría significar que habría que pagar. Pero aún así, es la que yo veo mejor con lo que necesita y el presupuesto de mi empresa.
